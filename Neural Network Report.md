@@ -95,6 +95,8 @@ Adam optimizer
 Learning rate: 0.001
 Adam combines the benefits of momentum and adaptive learning rates, making it highly effective for deep learning tasks.
 
+# Update
+
 This was giving a descent Training accuracy around 80 percent.
 But when this model was tested against the structures determined by alpha fold model, it performed poorly.
 So as of now, My Professor has instructor me to use Support vector machine to do the classification.
