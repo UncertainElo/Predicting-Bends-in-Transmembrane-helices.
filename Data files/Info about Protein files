@@ -1,0 +1,4 @@
+The name of the proteins used in the training data is 1.cif, 50.cif, etc represents individual protein
+in the mmcif format present in the PDB. The figures 1,2,3..etc is an abbreviaiton of different proteins, used for
+ease in fetching the protein for various calculation. A file will be uploaded showing
+the PDB ids for the corresponding numbers used to denote the protein.
